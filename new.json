@@ -1,3 +1,6 @@
-git add new.json
-git commit
-git status
+{
+"name": "Trofimov Andrei Vladimirovich",
+"age": 35, 
+"animal": "no",
+"money": "100 000 rub"
+}
