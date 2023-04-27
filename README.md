@@ -1,9 +1,12 @@
 // 4. Создать внешний репозиторий c названием JSON.
+
 // 5. Клонировать репозиторий JSON на локальный компьютер 
 git clone https://github.com/atrf87/JSON.git
+
 // 6. Внутри локального JSON создать файл “new.json”
 cd json
 cat > new.json
+
 // 7. Добавить файл под гит
 git add new.json
 // 8. Закоммитить файл.
