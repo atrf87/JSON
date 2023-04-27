@@ -1,1 +1,14 @@
-
+{
+  "id": 27,
+  "severity": "minor",
+  "priority": "high",
+  "title": "wrong phone number on home page",
+  "environment": "Samsung galaxy A12 Android 12",
+  "precondition": "no",
+  "steps": "open website www.site.com",
+  "expected result": "the correct phone number on the main page is +995 123 456",
+  "actual result": "the correct phone number on the main page is +995 000 000",
+  "link": "www.site.com",
+  "comments": "no"
+  "data": "27.04.2023"
+}
